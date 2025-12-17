@@ -1,5 +1,3 @@
-# Fuck you tiva i hope your project fails like every single one you have made
-
 ### s11 to s13ish (pretty sure 13.30 or 13.40 might have it)
 
 ## Server assets tut:
